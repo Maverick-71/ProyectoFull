@@ -1,0 +1,14 @@
+.elemento-carrusel {
+  width: 800px;
+  height: 400px;
+}
+
+.cuerpoCarrusel {
+  display: inline;
+}
+
+body {
+  background-color: #A5D6A7;
+}
+
+/*# sourceMappingURL=carrusel.css.map */

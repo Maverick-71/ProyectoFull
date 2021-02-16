@@ -1,0 +1,16 @@
+.cabezera {
+  height: 100px;
+  background-color: #A5D6A7;
+}
+
+.cabezera .imgLogo {
+  width: 100px;
+  height: 100px;
+}
+
+.empresa {
+  text-align: center;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+/*# sourceMappingURL=cabezera.css.map */
